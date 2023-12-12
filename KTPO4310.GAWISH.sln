@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34322.80
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "KTPO4310.GAWISH.UnitTest", "KTPO4310.GAWISH.UnitTest\KTPO4310.GAWISH.UnitTest.csproj", "{42105B10-40F3-40D5-A3DB-0E4B662182E6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KTPO4310.GAWISH.Lib", "KTPO4310.GAWISH.Lib\KTPO4310.GAWISH.Lib.csproj", "{0B045EB2-4762-4D8D-A1DD-0BB351FD009D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{42105B10-40F3-40D5-A3DB-0E4B662182E6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{42105B10-40F3-40D5-A3DB-0E4B662182E6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{42105B10-40F3-40D5-A3DB-0E4B662182E6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{42105B10-40F3-40D5-A3DB-0E4B662182E6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0B045EB2-4762-4D8D-A1DD-0BB351FD009D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0B045EB2-4762-4D8D-A1DD-0BB351FD009D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0B045EB2-4762-4D8D-A1DD-0BB351FD009D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0B045EB2-4762-4D8D-A1DD-0BB351FD009D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {91499472-1D8F-4D98-9BFD-7001311B83E8}
+	EndGlobalSection
+EndGlobal
