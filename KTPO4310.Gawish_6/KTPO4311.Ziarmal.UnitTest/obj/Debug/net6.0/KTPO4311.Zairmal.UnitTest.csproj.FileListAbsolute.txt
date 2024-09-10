@@ -1,0 +1,5 @@
+C:\Users\Ziarmal N\OneDrive\Desktop\OC\KTPO4311.Zairmal\KTPO4311.Zairmal.UnitTest\obj\Debug\net6.0\KTPO4311.Zairmal.UnitTest.csproj.AssemblyReference.cache
+C:\Users\Ziarmal N\OneDrive\Desktop\OC\KTPO4311.Zairmal\KTPO4311.Zairmal.UnitTest\obj\Debug\net6.0\KTPO4311.Zairmal.UnitTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ziarmal N\OneDrive\Desktop\OC\KTPO4311.Zairmal\KTPO4311.Zairmal.UnitTest\obj\Debug\net6.0\KTPO4311.Zairmal.UnitTest.AssemblyInfoInputs.cache
+C:\Users\Ziarmal N\OneDrive\Desktop\OC\KTPO4311.Zairmal\KTPO4311.Zairmal.UnitTest\obj\Debug\net6.0\KTPO4311.Zairmal.UnitTest.AssemblyInfo.cs
+C:\Users\Ziarmal N\OneDrive\Desktop\OC\KTPO4311.Zairmal\KTPO4311.Zairmal.UnitTest\obj\Debug\net6.0\KTPO4311.Zairmal.UnitTest.csproj.CoreCompileInputs.cache

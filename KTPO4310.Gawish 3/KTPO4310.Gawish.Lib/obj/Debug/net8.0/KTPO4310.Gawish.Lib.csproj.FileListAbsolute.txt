@@ -1,0 +1,12 @@
+E:\study\3 course\5 smester\Ktpo\Ktpo labs\KTPO4310.Gawish 2\KTPO4310.Gawish.Lib\bin\Debug\net8.0\KTPO4310.Gawish.Lib.deps.json
+E:\study\3 course\5 smester\Ktpo\Ktpo labs\KTPO4310.Gawish 2\KTPO4310.Gawish.Lib\bin\Debug\net8.0\KTPO4310.Gawish.Lib.dll
+E:\study\3 course\5 smester\Ktpo\Ktpo labs\KTPO4310.Gawish 2\KTPO4310.Gawish.Lib\bin\Debug\net8.0\KTPO4310.Gawish.Lib.pdb
+E:\study\3 course\5 smester\Ktpo\Ktpo labs\KTPO4310.Gawish 2\KTPO4310.Gawish.Lib\obj\Debug\net8.0\KTPO4310.Gawish.Lib.GeneratedMSBuildEditorConfig.editorconfig
+E:\study\3 course\5 smester\Ktpo\Ktpo labs\KTPO4310.Gawish 2\KTPO4310.Gawish.Lib\obj\Debug\net8.0\KTPO4310.Gawish.Lib.AssemblyInfoInputs.cache
+E:\study\3 course\5 smester\Ktpo\Ktpo labs\KTPO4310.Gawish 2\KTPO4310.Gawish.Lib\obj\Debug\net8.0\KTPO4310.Gawish.Lib.AssemblyInfo.cs
+E:\study\3 course\5 smester\Ktpo\Ktpo labs\KTPO4310.Gawish 2\KTPO4310.Gawish.Lib\obj\Debug\net8.0\KTPO4310.Gawish.Lib.csproj.CoreCompileInputs.cache
+E:\study\3 course\5 smester\Ktpo\Ktpo labs\KTPO4310.Gawish 2\KTPO4310.Gawish.Lib\obj\Debug\net8.0\KTPO4310.Gawish.Lib.dll
+E:\study\3 course\5 smester\Ktpo\Ktpo labs\KTPO4310.Gawish 2\KTPO4310.Gawish.Lib\obj\Debug\net8.0\refint\KTPO4310.Gawish.Lib.dll
+E:\study\3 course\5 smester\Ktpo\Ktpo labs\KTPO4310.Gawish 2\KTPO4310.Gawish.Lib\obj\Debug\net8.0\KTPO4310.Gawish.Lib.pdb
+E:\study\3 course\5 smester\Ktpo\Ktpo labs\KTPO4310.Gawish 2\KTPO4310.Gawish.Lib\obj\Debug\net8.0\ref\KTPO4310.Gawish.Lib.dll
+E:\study\3 course\5 smester\Ktpo\Ktpo labs\KTPO4310.Gawish 2\KTPO4310.Gawish.Lib\obj\Debug\net8.0\KTPO4310.Gawish.Lib.csproj.AssemblyReference.cache

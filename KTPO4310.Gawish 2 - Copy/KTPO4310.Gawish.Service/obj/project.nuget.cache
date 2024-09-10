@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "dmyoGO25REdlzydwR2sGm7DjxJBh2q1lMk9D9SHJg3FG6lloji/EwBNHcrbsO+oz2R+DI6ytg6pLsWNA81oY6g==",
+  "success": true,
+  "projectFilePath": "E:\\study\\3 course\\5 smester\\Ktpo\\Ktpo labs\\KTPO4310.Gawish 2\\KTPO4310.Gawish.Service\\KTPO4310.Gawish.Service.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Moe-gawish\\.nuget\\packages\\system.configuration.configurationmanager\\8.0.0\\system.configuration.configurationmanager.8.0.0.nupkg.sha512",
+    "C:\\Users\\Moe-gawish\\.nuget\\packages\\system.diagnostics.eventlog\\8.0.0\\system.diagnostics.eventlog.8.0.0.nupkg.sha512",
+    "C:\\Users\\Moe-gawish\\.nuget\\packages\\system.security.cryptography.protecteddata\\8.0.0\\system.security.cryptography.protecteddata.8.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

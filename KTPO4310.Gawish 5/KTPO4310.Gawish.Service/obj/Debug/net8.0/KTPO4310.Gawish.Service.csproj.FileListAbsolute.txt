@@ -1,0 +1,16 @@
+E:\study\3 course\5 smester\Ktpo\Ktpo labs\KTPO4310.Gawish 2\KTPO4310.Gawish.Service\bin\Debug\net8.0\KTPO4310.Gawish.Service.dll.config
+E:\study\3 course\5 smester\Ktpo\Ktpo labs\KTPO4310.Gawish 2\KTPO4310.Gawish.Service\bin\Debug\net8.0\KTPO4310.Gawish.Service.deps.json
+E:\study\3 course\5 smester\Ktpo\Ktpo labs\KTPO4310.Gawish 2\KTPO4310.Gawish.Service\bin\Debug\net8.0\KTPO4310.Gawish.Service.dll
+E:\study\3 course\5 smester\Ktpo\Ktpo labs\KTPO4310.Gawish 2\KTPO4310.Gawish.Service\bin\Debug\net8.0\KTPO4310.Gawish.Service.pdb
+E:\study\3 course\5 smester\Ktpo\Ktpo labs\KTPO4310.Gawish 2\KTPO4310.Gawish.Service\bin\Debug\net8.0\KTPO4310.Gawish.Lib.dll
+E:\study\3 course\5 smester\Ktpo\Ktpo labs\KTPO4310.Gawish 2\KTPO4310.Gawish.Service\bin\Debug\net8.0\KTPO4310.Gawish.Lib.pdb
+E:\study\3 course\5 smester\Ktpo\Ktpo labs\KTPO4310.Gawish 2\KTPO4310.Gawish.Service\obj\Debug\net8.0\KTPO4310.Gawish.Service.csproj.AssemblyReference.cache
+E:\study\3 course\5 smester\Ktpo\Ktpo labs\KTPO4310.Gawish 2\KTPO4310.Gawish.Service\obj\Debug\net8.0\KTPO4310.Gawish.Service.GeneratedMSBuildEditorConfig.editorconfig
+E:\study\3 course\5 smester\Ktpo\Ktpo labs\KTPO4310.Gawish 2\KTPO4310.Gawish.Service\obj\Debug\net8.0\KTPO4310.Gawish.Service.AssemblyInfoInputs.cache
+E:\study\3 course\5 smester\Ktpo\Ktpo labs\KTPO4310.Gawish 2\KTPO4310.Gawish.Service\obj\Debug\net8.0\KTPO4310.Gawish.Service.AssemblyInfo.cs
+E:\study\3 course\5 smester\Ktpo\Ktpo labs\KTPO4310.Gawish 2\KTPO4310.Gawish.Service\obj\Debug\net8.0\KTPO4310.Gawish.Service.csproj.CoreCompileInputs.cache
+E:\study\3 course\5 smester\Ktpo\Ktpo labs\KTPO4310.Gawish 2\KTPO4310.Gawish.Service\obj\Debug\net8.0\KTPO4310.Gawish.Service.csproj.CopyComplete
+E:\study\3 course\5 smester\Ktpo\Ktpo labs\KTPO4310.Gawish 2\KTPO4310.Gawish.Service\obj\Debug\net8.0\KTPO4310.Gawish.Service.dll
+E:\study\3 course\5 smester\Ktpo\Ktpo labs\KTPO4310.Gawish 2\KTPO4310.Gawish.Service\obj\Debug\net8.0\refint\KTPO4310.Gawish.Service.dll
+E:\study\3 course\5 smester\Ktpo\Ktpo labs\KTPO4310.Gawish 2\KTPO4310.Gawish.Service\obj\Debug\net8.0\KTPO4310.Gawish.Service.pdb
+E:\study\3 course\5 smester\Ktpo\Ktpo labs\KTPO4310.Gawish 2\KTPO4310.Gawish.Service\obj\Debug\net8.0\ref\KTPO4310.Gawish.Service.dll

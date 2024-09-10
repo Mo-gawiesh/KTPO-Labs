@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<settings>
+	<ext>.txt</ext>
+	<ext>.cs</ext>
+	<ext>.exe</ext>
+	<ext>.asm</ext>
+	<ext>.obj</ext>
+</settings>
